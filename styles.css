@@ -1,0 +1,63 @@
+.face{
+    border-radius: 100%;
+}
+
+li,.position,.company,.date{
+    text-align: left;
+}
+
+.tools{
+    position: relative;
+    right: 3px;
+}
+.workicon{
+    position: relative;
+    right: 4px;
+}
+
+.tohome{
+position: fixed;
+  bottom: 10px;
+  right: 0;
+  border-radius: 100%;
+  background-color: #fff6f6;
+}
+
+#header{
+    background-color: #FDF4F5;
+    
+}
+
+#summary{
+    background-color: #FDF4F5;
+    
+}
+
+#Work{
+    background-color: #FFF2F2;
+}
+
+#skills{
+    background-color: #FDF4F5;
+    
+}
+
+#footer{
+    background-color: #FFF2F2;
+}
+
+#Projects{
+    background-color: #fff6f6;
+}
+
+span{
+    color: #892CDC;
+}
+
+.lead{
+    font-weight: bold;
+}
+
+.navigation{
+    color: black;
+}
