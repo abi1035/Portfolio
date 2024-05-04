@@ -61,3 +61,8 @@ span{
 .navigation{
     color: black;
 }
+
+a { 
+    text-decoration: none;
+    color: black;
+}
