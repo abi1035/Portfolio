@@ -1,0 +1,5 @@
+ A little about myself, I am fullstack developer, I worked on various projects like ReactCV, Weather API, ToDoList, Blog Posts to name a few. I love problem solving and tackling on bigger challenges, because it is something that constantly pushes me to think outside the box, to solve complex problems. I started dwelling deeper into JS, learning the backend (NodeJs, ExpressJS, SQL- PostgreDB, NoSQL- MongoDB), and libraries like React and frameworks like Angular and then I learnt about Typescript and same basics in Python. All these skills helped me build my projects. Currently I am working on building my own chatbot with DialogFlow.
+
+
+
+HTML, CSS, JS, MongoDB, ExpressJS, ,ReactJS, NodeJS, PostgreDB, Python, jQuery, NextJS, RestAPI, API, Vite, Git, TypeScript, Unix, AWS. 
